@@ -1,6 +1,5 @@
 package Anagrams;
-//ua.com.foxminded.anagrams;
-//ua.com.foxminded.anagrams
+
 import java.util.Scanner;
 
     public class AnagramApplications {
